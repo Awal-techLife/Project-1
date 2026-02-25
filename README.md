@@ -61,7 +61,10 @@ LIMIT 10;
 
 * Diverse Employers: High-paying remote opportunities are not limited to one sector, with top roles offered by a mix of major tech companies (like Netflix and AT&T) and specialized firms across various industries.
   
-![Top paying roles](assets/top_paying_roles.png))
+<p align="center">
+  <img src="assets/top_paying_roles.png" width="600">
+</p>
+
 ### 2. Skills for Top Paying Jobs
 Building on the first query, this analysis explores which specific skills are required for these high-paying roles. It helps candidates understand what tools they need to master to land top-tier jobs.
 ```sql
