@@ -7,7 +7,7 @@ Through this project, I explore:
 * **Skill Demand**: Pinpointing which technical skills are non-negotiable for employers.
 
 * **Salary Insights**: Correlating specific technical expertise with high earning potential.
-* SQL queries? Check them out here: [Project_sql_folder]()
+* SQL queries? Check them out here: [Project_sql_folder](project_sql/)
 # Background
 # Tools I Used
 # The Analysis 
