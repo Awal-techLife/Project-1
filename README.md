@@ -135,15 +135,15 @@ LIMIT 5;
 * **Remote Market Stability:** The high volume of postings for these skills suggests a mature and stable job market for analysts who can work effectively from home.
 
  #### Skill | Demand Count
-SQL -- 7,291  
+   *SQL -- 7,291  
 
-Excel -- 4,677 
+   *Excel -- 4,677 
 
-Python -- 4,330  
+   *Python -- 4,330  
 
-Tableau -- 3,745  
+   *Tableau -- 3,745  
 
-Power BI -- 2,609  
+   *Power BI -- 2,609  
 
 
 
