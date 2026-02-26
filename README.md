@@ -301,9 +301,10 @@ LIMIT 25;
 | 61 | sql server | 35 | 97,786 |
 | 9 | javascript | 20 | 97,587 |
 
-**1 Best pay + demand balance** sits with modern data stack skills: snowflake, azure, aws, python, tableau, looker.
+**1 Best pay + demand balance sits with modern data stack skills:** 
+snowflake, azure, aws, python, tableau, looker.
 
-**2 Highest salary skills are niche** in this set:
+**2 Highest salary skills are niche in this set:**
  * go ($115,320, demand 27)
  * confluence ($114,210, demand 11)
  * hadoop ($113,193, demand 22)
@@ -320,4 +321,23 @@ LIMIT 25;
 
 
 # What I Learned
+This project was a major milestone in my data journey. I deepened my technical expertise and gained a practical understanding of how data can guide career decisions whilst  strengthening both my SQL skills and analytical thinking.
+
+
+ * Advanced SQL Mastery: I learned how to use CTEs (Common Table Expressions) to break down complex problems into readable, manageable steps.
+
+ * The Power of Joins: I mastered joining multiple tables (Fact and Dimension) to create a holistic view of the data.
+
+ * Data-Driven Strategy: I realized that high-demand skills don't always equal high pay. To be an "Optimal" analyst, you have to find the intersection of both.
+
+ * Data Cleaning Importance: Handling the 120MB+ dataset taught me the value of filtering for NULL values to ensure my average salary calculations were accurate and meaningful.
+
+#### Personal Impact
+- This project made me more confident in solving real-world data problems with SQL.
+- It gave me a portfolio-ready analysis that demonstrates both technical and business understanding.
+- It clarified my learning roadmap: strengthen core analytics skills while building more cloud and data engineering exposure.
+ 
 # Conclusion
+
+This project shows that remote data analyst opportunities are strongest for candidates with a balanced skill set: core analytics (`SQL`, `Python`, `Tableau`, `Excel`) plus modern cloud/data platform tools.  
+The best career strategy is to prioritize skills that are both highly demanded and well paid, while continuing to build practical, business-focused analysis capability.
